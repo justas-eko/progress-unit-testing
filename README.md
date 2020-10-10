@@ -1,5 +1,6 @@
 # progress-unit-testing
-Demo repository for Progress unit testing trainings
+Demo repository for Progress unit testing trainings.  
+It has simple calculator program implemented in two ways (procedural and OOP) and is covered in tests.
 
 ## To test if ABLUnit framework is working on your environment you can use our sample repository which already have everything configured. To try it out perform following steps:
 
