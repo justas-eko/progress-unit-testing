@@ -17,13 +17,14 @@ git clone https://github.com/justas-eko/progress-unit-testing.git
   Run script **progress-unit-testing/ablunitRunWin/launch_unit.sh**  
 3. If everything went well you will see:
 ```bash
-$ ./launch_unit.sh
+$ ./launch_unit.sh  
 Starting tests...
 Finished! Check 'results.xml'
 If there we errors:
 ```
 ```bash
-$ ./launch_unit.shStarting tests...
+$ ./launch_unit.sh  
+Starting tests...
    Seems there are failing tests...
 Finished! Check 'results.xml'
 ```
